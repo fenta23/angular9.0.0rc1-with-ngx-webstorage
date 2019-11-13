@@ -12,7 +12,7 @@ import { NgxWebstorageModule } from 'ngx-webstorage';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    NgxWebstorageModule.forRoot(),
+    //NgxWebstorageModule.forRoot(),
   ],
   providers: [],
   bootstrap: [AppComponent]
